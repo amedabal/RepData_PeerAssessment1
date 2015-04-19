@@ -48,7 +48,7 @@ actData$interval <- as.numeric(actData$interval)
 ```
 
 ## What is mean total number of steps taken per day?
-  Calculate the total Number of steps taken per day.
+ Calculate the total Number of steps taken per day.
 
 ```r
 ## Aggregate sums of steps per each day into a different data frame
